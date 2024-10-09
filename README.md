@@ -8,7 +8,7 @@ The type of work includes:
 - Content development 
 
 ## How we work
-[SBL project](https://github.com/orgs/cfpb/projects/21) is the central repository for the project management of the project. The primary purpose of this repository is to track UX work related to our [**user stories**](https://github.com/cfpb/sbl-project/issues?q=is%3Aopen+is%3Aissue+label%3Astory). As a project team, our work is framed from by Milestones, Epics, User stories, and Tasks. UX specific tasks live in this repository. 
+[**SBL project**](https://github.com/orgs/cfpb/projects/21) is the central repository for the Small Business Lending Data Filing Platform project. As a project team, our work is framed by milestones, epics, user stories, and tasks. The primary purpose of this repository is to track UX tasks related to [user stories](https://github.com/cfpb/sbl-project/issues?q=is%3Aopen+is%3Aissue+label%3Astory). 
 
 ### The hierarchy 
 - [**Milestones**](https://github.com/cfpb/sbl-project/milestones)
