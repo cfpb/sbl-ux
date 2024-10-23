@@ -30,6 +30,6 @@ Work includes:
 - [regtech-user-fi-management](https://github.com/cfpb/regtech-user-fi-management) - REST API for user and institution data in CFPB's RegTech systems
 - [sbl-filing-api](https://github.com/cfpb/sbl-filing-api) - REST API for filing SBL submissions
 - [sbl-frontend](https://github.com/cfpb/sbl-frontend/) - Web frontend for the CFPB's SBL filing system
-- [sbl-ux](https://github.com/cfpb/sbl-frontend/) - Repository for tracking UX work related to the small business lending project.
+- [sbl-ux](https://github.com/cfpb/sbl-ux) - Repository for tracking UX work related to the small business lending project.
 
 
