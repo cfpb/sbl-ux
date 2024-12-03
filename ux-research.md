@@ -90,6 +90,11 @@ The initial list of questions came from [215](https://github.com/cfpb/sbl-projec
 | Does adding dollar amount of loans and total number of loans to the "Confirm your register information" section help a filer feel more confident that they are submitting the correct data? |  |
 | Who should receive the email confirmation after a filer submits a filing? Should it be only the filer, the filer and POC, anyone who is associated with the institution in our system? |  |
 
+## Review filing questions
+| Question  | Related Issues |
+| :--- | :--- |
+| What is someone looking for or looking to do when they review a filing? What information or actions are most important? |  |
+
 ## Getting help
 | Question  | Related Issues |
 | :--- | :--- |
