@@ -36,7 +36,8 @@ The initial list of questions came from [215](https://github.com/cfpb/sbl-projec
 ### Filing process navigation
 | Question  | Related Issues |
 | :--- | :--- |
-| How much do users expect to be able to jump between steps, and to what degree should we accommodate those expectations? What impact would this have on completing the filing process? |  |
+| How much do users expect to be able to jump between steps, and to what degree should we accommodate those expectations? What impact would this have on completing the filing process? To what degree do in-page notifications help users understand where their file is in the flow?  |  |
+| Would adding numbers to the step indicator enhance wayfinding?  |  |
 | Should the step indicator afford another way to navigate between steps (in addition to the buttons)?  |  |
 | Would wayfinding be improved with button text that is more descriptive than "Go back" and "Save and continue"? | [Summer 2024 Usability Testing](https://github.com/cfpb/sbl-project/issues/229) |
 | When a filer hasn't completed the step that they are on, how should the design of "Save and continue" change to let them know that they can't move forward in the process? Currently the button is secondary until requirements have been met and then turns primary when requirements are met.  |  |
